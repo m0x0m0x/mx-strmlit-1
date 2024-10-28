@@ -10,3 +10,14 @@ dependencies = [
     "rich>=13.9.3",
     "streamlit>=1.39.0",
 ]
+
+[tool.poetry.dependencies]
+python = ">=3.12"
+matplotlib = ">=3.9.2"
+pandas = ">=2.2.3"
+rich = ">=13.9.3"
+streamlit = ">=1.39.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
