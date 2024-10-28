@@ -1,0 +1,12 @@
+[project]
+name = "StreamLitPanty"
+version = "0.1.0"
+description = "StreamLitTesting"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.9.2",
+    "pandas>=2.2.3",
+    "rich>=13.9.3",
+    "streamlit>=1.39.0",
+]
