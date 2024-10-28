@@ -11,6 +11,12 @@ dependencies = [
     "streamlit>=1.39.0",
 ]
 
+[tool.poetry]
+name = "StreamLitPanty"
+version = "0.1.0"
+description = "StreamLitTesting"
+authors = ["BootyDance <buty@buty>"]  # Replace with your name and email
+
 [tool.poetry.dependencies]
 python = ">=3.12"
 matplotlib = ">=3.9.2"
